@@ -1,5 +1,9 @@
 import java.util.*;
-public static void main(string s):
+
+public class Main {
+public static void main(String[] args) 
 {
-System.out.println("new branch")
-}s
+System.out.println("new branch");
+}
+}
+
